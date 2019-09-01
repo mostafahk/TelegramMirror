@@ -1,0 +1,8 @@
+﻿Target[00].Url=
+Target[00].Host=
+Target[01].Url=https://stage.bamantamin.com/api/TLBot?BotId=5
+Target[01].Host=stage.bamantamin.com
+Target[02].Url=https://www.bamantamin.com/api/TLBot?BotId=5
+Target[02].Host=www.bamantamin.com
+Target[03].Url=http://92.242.192.178:60000/srv-ssam
+Target[03].Host=92.242.192.179:60000
